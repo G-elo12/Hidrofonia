@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AquaMonitor",
-    "slug": "AquaMonitor",
+    "slug": "moni",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,9 +27,10 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-  "eas": {
-    "projectId": "1256b3e4-7b6f-4831-a371-e2ce3b92ab63"
-  }
-}
+      "eas": {
+        "projectId": "1256b3e4-7b6f-4831-a371-e2ce3b92ab63"
+      }
+    },
+    "owner": "ansg12"
   }
 }
